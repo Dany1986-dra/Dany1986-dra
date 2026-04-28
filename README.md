@@ -1,4 +1,4 @@
-# Hi, I´m Daniel Rivera Alpízar | Jr. Data Science and Engineer.
+# Hi, I´m Daniel Rivera Alpízar | Jr. FrontEnd.
 **Explorando datos, construyendo modelos y automatizando procesos.**
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
