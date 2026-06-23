@@ -1,80 +1,206 @@
-# Hi, I´m Daniel Rivera Alpízar | Jr. FrontEnd.
-**Explorando datos, construyendo modelos y automatizando procesos.**
+<p align="center">
+  <img
+    src="./assets/banner-github.png"
+    alt="Daniel Rivera Alpízar — QA Tester, Front-End y Accesibilidad Digital"
+    width="100%"
+  >
+</p>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/QA_TESTER-008F72?style=for-the-badge" alt="QA Tester">
+  <img src="https://img.shields.io/badge/FRONT--END-0B3B4F?style=for-the-badge" alt="Front-End">
+  <img src="https://img.shields.io/badge/ACCESIBILIDAD_DIGITAL-D4AF37?style=for-the-badge" alt="Accesibilidad digital">
+</p>
 
-**Acerca de mí:**
+<h1 align="center">Hola, soy Daniel Rivera Alpízar 👋</h1>
 
-Soy un apasionado de la ciencia de datos con experiencia en...
+<p align="center">
+  Profesional enfocado en aseguramiento de calidad, desarrollo web
+  y accesibilidad digital.
+</p>
 
-## 💻 Tech Stack:
+<p align="center">
+  <a href="URL-DE-TU-LINKEDIN">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Contactar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
+  </a>
+  <a href="URL-DE-TU-CV-WEB">
+    <img
+      src="https://img.shields.io/badge/VER_CV_PROFESIONAL-D4AF37?style=for-the-badge"
+      alt="CV profesional"
+    >
+  </a>
+</p>
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+---
 
-## Design:
-![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## 👨‍💻 Sobre mí
 
-## Education:
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+Soy un profesional interesado en el aseguramiento de calidad, el
+desarrollo web front-end y la accesibilidad digital.
 
-## Frameworks, Platforms and Libraries:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+Me enfoco en analizar, desarrollar y validar interfaces funcionales,
+responsivas, fáciles de utilizar e inclusivas para diferentes tipos
+de usuarios.
 
+Actualmente continúo fortaleciendo mis conocimientos en:
 
-## Languages:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+- Pruebas funcionales y exploratorias.
+- Diseño y documentación de casos de prueba.
+- Desarrollo de interfaces web responsivas.
+- Accesibilidad basada en buenas prácticas WCAG.
+- Git, GitHub y publicación mediante GitHub Pages.
+- Mejora continua de la experiencia de usuario.
 
-## IDEs/Editors:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+---
 
-## ML/DL:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+## 🛠️ Tecnologías y competencias
 
-## Operating System:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/QA-Testing-008F72?style=for-the-badge" alt="QA Testing">
+  <img src="https://img.shields.io/badge/Accesibilidad-WCAG-D4AF37?style=for-the-badge" alt="WCAG">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-0B3B4F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-## Others:
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![NVDA](https://img.shields.io/badge/NVDA-%23630093.svg?style=for-the-badge&logo=NVDA&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 🧪 Pruebas y calidad
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dany1986-dra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+- Diseño y ejecución de casos de prueba.
+- Pruebas funcionales y exploratorias.
+- Identificación y documentación de incidencias.
+- Elaboración de evidencias y reportes.
+- Verificación de interfaces responsivas.
+- Evaluación básica de accesibilidad digital.
+
+### 💻 Desarrollo web
+
+- HTML5 semántico.
+- CSS3 y diseño responsive.
+- JavaScript y jQuery.
+- Bootstrap.
+- Git y GitHub.
+- GitHub Pages.
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🌐 CV y portafolio profesional
+
+CV interactivo desarrollado con HTML, CSS, JavaScript, jQuery y
+Bootstrap.
+
+**Características:**
+
+- Diseño responsive.
+- Navegación accesible.
+- Descarga del CV en PDF.
+- Optimización para redes sociales.
+- Publicación mediante GitHub Pages.
+
+<p>
+  <a href="URL-DEL-REPOSITORIO-DEL-CV">
+    <img src="https://img.shields.io/badge/VER_REPOSITORIO-0B3B4F?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
+  </a>
+  <a href="URL-DE-TU-CV-WEB">
+    <img src="https://img.shields.io/badge/VER_SITIO-008F72?style=for-the-badge" alt="Sitio publicado">
+  </a>
+</p>
+
+---
+
+### 🧪 Proyecto de pruebas QA
+
+Proyecto orientado a documentar el proceso de aseguramiento de calidad.
+
+**Contenido:**
+
+- Plan y estrategia de pruebas.
+- Casos de prueba.
+- Evidencias de ejecución.
+- Reportes de incidencias.
+- Resultados y recomendaciones.
+
+<p>
+  <a href="URL-DEL-PROYECTO-QA">
+    <img src="https://img.shields.io/badge/VER_PROYECTO-D4AF37?style=for-the-badge&logoColor=white" alt="Proyecto QA">
+  </a>
+</p>
+
+---
+
+### ♿ Evaluación de accesibilidad
+
+Análisis de una interfaz web utilizando buenas prácticas de
+accesibilidad digital.
+
+**Aspectos evaluados:**
+
+- Estructura semántica.
+- Navegación mediante teclado.
+- Contraste y legibilidad.
+- Textos alternativos.
+- Formularios y mensajes comprensibles.
+- Recomendaciones basadas en WCAG.
+
+<p>
+  <a href="URL-DEL-PROYECTO-DE-ACCESIBILIDAD">
+    <img src="https://img.shields.io/badge/VER_EVALUACIÓN-008F72?style=for-the-badge" alt="Evaluación de accesibilidad">
+  </a>
+</p>
+
+---
+
+## 🎯 Objetivo profesional
+
+Busco oportunidades en las que pueda contribuir como:
+
+- QA Tester.
+- Tester funcional.
+- Desarrollador Front-End junior.
+- Analista de accesibilidad digital.
+- Soporte técnico orientado a aplicaciones web.
+
+Mi objetivo es aportar una combinación de pensamiento analítico,
+calidad, desarrollo web y enfoque inclusivo.
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="URL-DE-TU-LINKEDIN">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Daniel_Rivera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
+  </a>
+  <a href="URL-DE-TU-CV-WEB">
+    <img
+      src="https://img.shields.io/badge/Portafolio-CV_WEB-008F72?style=for-the-badge"
+      alt="CV y portafolio"
+    >
+  </a>
+  <a href="https://github.com/Dany1986-dra">
+    <img
+      src="https://img.shields.io/badge/GitHub-Dany1986--dra-0B3B4F?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    >
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Calidad · Desarrollo · Accesibilidad</strong>
+</p>
+
+<p align="center">
+  <em>Construyendo experiencias digitales funcionales, claras e inclusivas.</em>
+</p>
