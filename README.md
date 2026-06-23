@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/banner-github.png"
+    src="assets/Imagen generada 1.png"
     alt="Daniel Rivera Alpízar — QA Tester, Front-End y Accesibilidad Digital"
     width="100%"
   >
